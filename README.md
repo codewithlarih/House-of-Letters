@@ -1,18 +1,49 @@
-## Getting Started
+# 📚 House of Letters (HL)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+> Sistema de gerenciamento de biblioteca desenvolvido em Java.
 
-## Folder Structure
+## ✨ Sobre o projeto
 
-The workspace contains two folders by default, where:
+O **House of Letters** é um projeto acadêmico desenvolvido com o objetivo de aplicar os principais conceitos da Programação Orientada a Objetos por meio de um sistema de gerenciamento de biblioteca.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+A aplicação permite organizar livros, leitores, funcionários e empréstimos por meio de um menu interativo no terminal.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🛠️ Tecnologias utilizadas
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- **Java** — linguagem de programação.
+- **VS Code** — ambiente de desenvolvimento.
+- **Git e GitHub** — versionamento e colaboração.
 
-## Dependency Management
+## 📌 Funcionalidades
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Cadastro, consulta, atualização e remoção de registros.
+- Listagem e organização de dados.
+- Gerenciamento de livros, leitores e funcionários.
+- Controle de empréstimos e devoluções.
+- Relatórios do sistema.
+
+## 🧠 Conceitos aplicados
+
+O projeto busca demonstrar conceitos fundamentais da Programação Orientada a Objetos:
+
+- Encapsulamento;
+- Herança;
+- Abstração;
+- Polimorfismo;
+- Interfaces;
+- Composição;
+- Inversão de Controle (IoC);
+- Injeção de Dependência (DI).
+
+## 👩‍💻 Desenvolvimento
+
+Projeto acadêmico desenvolvido em equipe como atividade prática da disciplina de Programação Orientada a Objetos.
+
+**House of Letters — HL**  
+*Organizando histórias, conectando leitores.* 📖
+
+---
+
+<p align="center">
+  Feito com 💗 e Java.
+</p>
