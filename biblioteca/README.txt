@@ -1,4 +1,4 @@
-BOOKFLOW - Sistema de Biblioteca (Java)
+House of Letters - Sistema de Biblioteca (Java)
 
 Compilar (na pasta biblioteca):
   javac -encoding UTF-8 -d out $(find src -name "*.java")      (Linux/Mac)
