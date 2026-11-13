@@ -9,6 +9,13 @@
             "name": "Programa",
             "request": "launch",
             "mainClass": "aplicacao.Programa",
+            "projectName": "biblioteca_House_of_Letters_d26bac86"
+        },
+        {
+            "type": "java",
+            "name": "Programa",
+            "request": "launch",
+            "mainClass": "aplicacao.Programa",
             "projectName": "biblioteca_bookflow_61a7c8f9"
         },
         {

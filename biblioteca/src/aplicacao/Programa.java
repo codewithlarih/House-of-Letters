@@ -15,7 +15,7 @@ import servicos.LivroService;
 import util.EntradaConsole;
 
 /**
- * Classe principal do sistema BOOKFLOW (biblioteca) - requisito 9.
+ * Classe principal do sistema House of Letters (biblioteca) - requisito 9.
  *
  * O que o programa faz: gerencia livros, leitores, funcionários e empréstimos de uma
  * biblioteca por meio de menus no console (incluir, alterar, excluir, listar, buscar e ordenar).

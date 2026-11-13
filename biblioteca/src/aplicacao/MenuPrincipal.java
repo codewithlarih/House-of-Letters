@@ -10,7 +10,7 @@ import util.EntradaConsole;
 import util.Tabela;
 
 /**
- * Menu principal do sistema BookFlow. Direciona para os submenus e também mostra
+ * Menu principal do sistema House of Letters. Direciona para os submenus e também mostra
  * a listagem de TODAS as pessoas juntas, que demonstra o POLIMORFISMO.
  * Todas as dependências chegam pelo construtor (injeção de dependência).
  */
@@ -48,7 +48,7 @@ public class MenuPrincipal {
                 case 3: menuFuncionario.executar(); break;
                 case 4: menuEmprestimo.executar(); break;
                 case 5: listarTodasAsPessoas(); break;
-                case 0: System.out.println("Encerrando o BookFlow. Até logo!"); break;
+                case 0: System.out.println("Encerrando o House of Letters. Até logo!"); break;
                 default: System.out.println("Opção inválida.");
             }
         } while (opcao != 0);
@@ -58,7 +58,7 @@ public class MenuPrincipal {
     private void exibirOpcoes() {
         System.out.println();
         System.out.println("------------------------------------------");
-        System.out.println(linha("BOOKFLOW - SISTEMA DE BIBLIOTECA"));
+        System.out.println(linha("House of Letters - SISTEMA DE BIBLIOTECA"));
         System.out.println("------------------------------------------");
         System.out.println(linha("1. Gerenciar livros"));
         System.out.println(linha("2. Gerenciar leitores"));
